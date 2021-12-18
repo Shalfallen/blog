@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Shalfallen/Shalfallen.github.io.git
+	branch = main
+[submodule "shalblog/public"]
+	path = shalblog/public
+	url = https://github.com/Shalfallen/Shalfallen.github.io.git
+	branch = main
